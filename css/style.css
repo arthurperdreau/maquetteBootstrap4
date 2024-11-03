@@ -1,0 +1,31 @@
+.page{
+    height: 100vh;
+}
+.SettingsNav{
+    background: #2C3E50;
+    padding-right: 8vh;
+    padding-left: 8vh;
+}
+.tailleIconeNav{
+    height: 4vh;
+    width: 4vh;
+}
+.corpsPage{
+    padding-right: 8vh;
+    padding-left: 8vh;
+    margin-top: 4vh;
+}
+.couleurText{
+    color: #2C3E50;
+}
+.ButtonShow,.ButtonEdit{
+    height: auto;
+    width: auto;
+}
+.ButtonEdit{
+    background: #2C3E50;
+}
+.IconEdit{
+    height: 2.75vh;
+    width: 3vh;
+}
