@@ -29,3 +29,18 @@
     height: 2.75vh;
     width: 3vh;
 }
+.buttonNewPost{
+    background: #18BC9C;
+}
+.CouleurVerte{
+    color: #18BC9C;
+}
+.buttonSourceCode{
+    height: 4vh;
+    width: 4vh;
+}
+.IconeTab{
+    height: 3vh;
+    width: 3vh;
+    margin-right: 1vh;
+}
